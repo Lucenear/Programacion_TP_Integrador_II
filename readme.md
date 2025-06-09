@@ -18,7 +18,7 @@ Trabajo práctico integrador de Programación I, correspondiente a la **Tecnicat
 - **Gonzalez, Franco**
 
 ## 🎥 Enlace al video explicativo
-_(Agregar enlace aquí)_
+https://drive.google.com/drive/folders/10BBdYFF5BF6XfWMis4ssfav6oG2bZYUa?usp=sharing
 
 ---
 
