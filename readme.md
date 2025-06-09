@@ -130,3 +130,14 @@ TP_INTEGRADOR_II
 
 ---
 
+## 🧪 ¿Cómo ejecutar el proyecto?
+1) Clonar el repositorio:
+```
+git clone https://github.com/Lucenear/Programacion_TP_Integrador_II.git
+```
+2) Ejecutar el programa:
+```
+python main.py  
+```
+
+---
