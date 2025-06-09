@@ -110,7 +110,7 @@ El programa incluye un **menú interactivo** para elegir entre pruebas de búsqu
 ---
 
 ## 📁 Estructura del Proyecto
-
+```
 TP_INTEGRADOR_II
 ├── Funciones/
 │ ├── alg_busqueda.py # Implementación de búsqueda lineal y binaria
@@ -119,7 +119,7 @@ TP_INTEGRADOR_II
 │ ├── med_tiempo.py # Medición de rendimiento
 ├── main.py # Menú, impresión de resultados y lógica principal
 ├── readme.md # Documento explicativo del proyecto
-
+```
 
 ---
 
