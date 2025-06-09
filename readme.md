@@ -17,6 +17,9 @@ Trabajo práctico integrador de Programación I, correspondiente a la **Tecnicat
 ## 🧑‍🏫 Tutor
 - **Gonzalez, Franco**
 
+## Comisión:
+- **M2025-13**
+
 ## 🎥 Enlace al video explicativo
 https://drive.google.com/drive/folders/10BBdYFF5BF6XfWMis4ssfav6oG2bZYUa?usp=sharing
 
@@ -112,6 +115,8 @@ El programa incluye un **menú interactivo** para elegir entre pruebas de búsqu
 ## 📁 Estructura del Proyecto
 ```
 TP_INTEGRADOR_II
+├── Documentacion/
+│ ├── Programacion I - Trabajo Integrador II.pdf # Documemento con desarrollo del Trabajo Practico
 ├── Funciones/
 │ ├── alg_busqueda.py # Implementación de búsqueda lineal y binaria
 │ ├── alg_ordenamiento.py # Algoritmos de ordenamiento (burbuja, quicksort, merge sort)
